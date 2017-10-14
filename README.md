@@ -1,2 +1,5 @@
 # volleyball_stats
-Volleyball stat-tracking app
+A volleyball statistics tracking app for the UC Berkeley's Men's Volleyball Team. 
+Creators:
+  Lawrence Zhao
+  Raymond Guo
